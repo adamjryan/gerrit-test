@@ -1,1 +1,1 @@
-An initial file for versioning.
+This is test of a synchronized gerrit server.
